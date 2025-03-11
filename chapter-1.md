@@ -1,5 +1,7 @@
 # Chapter 1 - Mastering Security Basics 
 
+Security Objectives - 1.1, 1.2, 2.5, 3.2, 4.1, 4.4, 4.5, 4.9
+
 ### Understanding Core Security Goals
 
 CIA Triad
