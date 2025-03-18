@@ -26,3 +26,7 @@ Resiliency vs Availability - Maintaining a very high uptime requires eliminating
 Resource Availability vs Security Constraints - Encryption consumes resources. 
 
 ### Introducing Basic Risk Concepts
+
+Risk is the likelihood that a threat will explot a vulnerability, risk mitigation reduces the chaces that a threat will exploit a vulnerability or reduces the risk's impact by implementing security controls. 
+
+### Selecting Effective Security Controls 
