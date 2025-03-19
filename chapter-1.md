@@ -30,3 +30,18 @@ Resource Availability vs Security Constraints - Encryption consumes resources.
 Risk is the likelihood that a threat will explot a vulnerability, risk mitigation reduces the chaces that a threat will exploit a vulnerability or reduces the risk's impact by implementing security controls. 
 
 ### Selecting Effective Security Controls 
+
+Control categories describe how a control works, control types describe the goal that the control is trying to achieve. 
+
+#### Control Categories
+
+Technical Controls: Using technology such as hardware, software, and firmware to reduce vulnerabilities.
+  - Encryption, Antivirus software, IDS and IPS, Firewalls, Least privilege
+
+Managerial Controls: Administrative controls typically documented in a security policy
+  - Risk assessments, Vulnerability assessments
+
+Operational Controls: Ensure the day-to-day operations of an organization comply with the overall security plan; implemented by the people who perform the day-to-day operations. 
+  - Awareness and training, Configuration management, Media protection
+
+
