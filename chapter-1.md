@@ -44,4 +44,18 @@ Managerial Controls: Administrative controls typically documented in a security 
 Operational Controls: Ensure the day-to-day operations of an organization comply with the overall security plan; implemented by the people who perform the day-to-day operations. 
   - Awareness and training, Configuration management, Media protection
 
+Physical Controls 
+
+#### Control Types 
+
+Preventive Controls: Prevent security incidents
+- Hardening, Training, Security guards, Account disablement process, IPS
+
+Deterrent Controls: Discourage threats
+
+
+
+
+
+
 
