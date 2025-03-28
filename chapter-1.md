@@ -52,6 +52,11 @@ Preventive Controls: Prevent security incidents
 - Hardening, Training, Security guards, Account disablement process, IPS
 
 Deterrent Controls: Discourage threats
+- Warning signs, Login banners
+
+Detective Controls: Detect when vulnerabilities have been exploited
+- Log monitoring, SIEM systems, Security audit, Video surveillance, Motion detection, IDS
+
 
 
 
