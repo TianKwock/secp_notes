@@ -75,7 +75,21 @@ Operating System / Endpoint Logs
   - /var/log/auth.log, /var/log/syslog, /var/log/messages, /var/log/secure 
 
 Network Logs
+- Firewall Logs, IDS/IPS Logs, Packet Captures
 
+Application Logs
+- Common Log format standardized by World Wide Web Consrtium (W3C)
+- Metadata
+
+Centralized Logging & Monitoring
+- SIEM systems: Centralized solution for collecting, analyzing, and managing data from systems, applications, and infrastructure devices.
+  - Log collectors, Data inputs, Log aggregation, Correlation engine, Automated reports, User behavior analysis (UBA), Security alerts, Automated triggers, Time synchronization, Archiving
+- SIEM dashboard
+  - Sensors, Alerts, Correlation, Trends
+
+Syslog: Protocal specifying a general log entry format and details on how to transport log entries
+- Used by most SIEM systems
+- Systems sending syslog messages are originators, and they send log entries to a collector (syslog server)
 
 
 
