@@ -57,8 +57,24 @@ Deterrent Controls: Discourage threats
 Detective Controls: Detect when vulnerabilities have been exploited
 - Log monitoring, SIEM systems, Security audit, Video surveillance, Motion detection, IDS
 
+Corrective Controls: Attempt to reverse the impact of the incident/problem after it has occured
+- Backups and system recovery, Incident handling processes
 
+Compensating Controls: Alternative controls used instead of a primary control
+- New employees using a TOTP instead of a smart card for authenticating to a system
 
+Directive Controls: Provide instruction on how individuals should handle security-related situations
+- Policies, standards, procedures, guidelines, change management
+
+### Logging and Monitoring
+
+Operating System / Endpoint Logs
+- Windows Logs: Viewable using Windows Event Viewer
+  - Security log, System log, Application log
+- Linux Logs: Stored in the /var/log directory
+  - /var/log/auth.log, /var/log/syslog, /var/log/messages, /var/log/secure 
+
+Network Logs
 
 
 
