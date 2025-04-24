@@ -91,6 +91,8 @@ Syslog: Protocal specifying a general log entry format and details on how to tra
 - Used by most SIEM systems
 - Systems sending syslog messages are originators, and they send log entries to a collector (syslog server)
 
+#### Chapter 1 Practice Questions:
 
+Score: 15/15
 
 
