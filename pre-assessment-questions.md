@@ -1,3 +1,0 @@
-# Pre-Assessment Questions
-
-Score: 
